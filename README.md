@@ -1,6 +1,7 @@
 # ITProjektienPerusteet
 Wysockin kirjaa käyttäen     
 Millainen on tyypillinen it-projekti. 
+<!-- osallistumisohjeet https://docs.github.com/en/get-started/quickstart/contributing-to-projects -->
 
 ## Arviointi
 *Tentti*: Wysockin kirjasta rajoitetut teemat 50 %   
