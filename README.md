@@ -24,26 +24,26 @@ Ymmärrät projektimaisen 1) **työskentelyn periaatteet ja luonteenpiirteet**. 
 - [Projektin päättäminen](#projektin-päättäminen)
 - [Projektinhallintasovellukset ja niiden käyttö](#projektinhallintasovellukset-ja-niiden-käyttö)
 
-# Totsun arviointikriteerit
-Yritetään avainasiat mäpätä näistä arviontikriteereistä tuonne oppimistavoitteisiin tai päinvastoin....
-Tyydyttävä 1
-Suunnittelet ja dokumentoit IT projektin. Projektin dokumentointi sekä **työkalujen ja menetelmien** hyödyntäminen on puutteellista.
-Tyydyttävä 2
-Suunnittelet ja dokumentoit IT projektin. Dokumentaatiosta on tunnistettavissa yrityksiä *ymmärtää* tehtyjä ratkaisuja **teorioiden ja toimintamallien** avulla. **Työkalujen ja menetelmien** hyödyntäminen on osittain puutteellista.
-Hyvä 3 (HUOM toimintamallit kuitenkin mukana)
-Suunnittelet ja dokumentoit IT projektin. Dokumentaatiossa kuvataan toteutusta **teorioiden ja käsitteiden** avulla. **Työkalujen ja menetelmien** *asiantuntevaan hyödyntämiseen on pyritty*.
-Hyvä 4 (HUOM: parhaat käytänteet + käytänteet =>toimintamallit)
-Suunnittelet ja dokumentoit IT projektin. Pyrit *parhaiden käytänteiden* hyödyntämiseen. Dokumentaatiossa on *käytetty **teoriaa ja käsitteitä** selittämässä* tehtyjä toimenpiteitä sekä tukemassa *esitettyjä väitteitä*. **Työkalujen ja menetelmien** hyödyntäminen on *asiantuntevaa*.
-Kiitettävä 5
+# Arviointikriteerit
+TODO: avainasiat näistä linkitettävä tuonne oppimistavoitteisiin tai niistä tänne.      
+Tyydyttävä 1      
+Suunnittelet ja dokumentoit IT projektin. Projektin dokumentointi sekä **työkalujen ja menetelmien** hyödyntäminen on puutteellista.      
+Tyydyttävä 2      
+Suunnittelet ja dokumentoit IT projektin. Dokumentaatiosta on tunnistettavissa yrityksiä *ymmärtää* tehtyjä ratkaisuja **teorioiden ja toimintamallien** avulla. **Työkalujen ja menetelmien** hyödyntäminen on osittain puutteellista.       
+Hyvä 3 (HUOM toimintamallit kuitenkin mukana)     
+Suunnittelet ja dokumentoit IT projektin. Dokumentaatiossa kuvataan toteutusta **teorioiden ja käsitteiden** avulla. **Työkalujen ja menetelmien** *asiantuntevaan hyödyntämiseen on pyritty*.      
+Hyvä 4 (HUOM: parhaat käytänteet + käytänteet =>toimintamallit)       
+Suunnittelet ja dokumentoit IT projektin. Pyrit *parhaiden käytänteiden* hyödyntämiseen. Dokumentaatiossa on *käytetty **teoriaa ja käsitteitä** selittämässä* tehtyjä toimenpiteitä sekä tukemassa *esitettyjä väitteitä*. **Työkalujen ja menetelmien** hyödyntäminen on *asiantuntevaa*.        
+Kiitettävä 5     
 Suunnittelet ja dokumentoit IT projektin *parhaiden käytänteiden* mukaisesti. Dokumentaatiossa *selitetään ja perustellaan* tehtyjä toimenpiteitä **teorioiden, toimintamallien** ja **käsitteiden** avulla. Myös **vaihtoehtoisia** toteutuskelpoisia menettelytapoja on pohdittu. **Työkalujen ja menetelmien** hyödyntäminen on asiantuntevaa ja monipuolista.
-
+<!-- 
 ## lyhennelmä arviointikriteereistä arvioinnin helpottamiseksi
 * 1-2 projektin dokumentointi, työkalut ja menetelmät.
 * 2 + teoriat ja toimintamallit
 * 3 + käytetään dokumentaatiossa teoriaa ja käsitteitä
 * 4 + pyrit parhaisiin käytänteisiin. 
 * 5 + käytetty parhaita käytänteitä
-  
+-->  
 # arviontikriteereistä poimitut teemat
 1. [suunnittelu ja dokumentointi](#suunnittelu-ja-dokumentointi)
 2. [teoriat ja käsitteet (toimintamallit)](#teoriat-ja-käsitteet-toimintamallit)
