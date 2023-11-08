@@ -20,8 +20,9 @@
         * Business goal 
         * Vaatimuksien kartoitus (RBS)
         * Projektin luokitus ja sen perustelu, (tarkalla tasolla)
+        * RBS perusteella tarvittavan tiedon kartoitus: mistä tietoa kerätään. 
         * RBS perusteella Karkea tietojärjestelmän osien kartoitus
-        * Tehtävien kartoitus (WBS) 
+        * Tehtävien kartoitus (WBS) *tietojärjestelmän osien* ja *tarvittavan tiedon* avulla
         * versionhallinnan haarojen (branch) ja toiminnan suunnittelu. 
             * https://nvie.com/posts/a-successful-git-branching-model/
         * Muu vaadittava dokumentaatio, täydentyy. 
