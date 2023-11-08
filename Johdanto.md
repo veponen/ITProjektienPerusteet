@@ -27,7 +27,7 @@
             * https://nvie.com/posts/a-successful-git-branching-model/
         * Muu vaadittava dokumentaatio, täydentyy. 
     * Suunnitteluprojektin seuranta ja kommunikointi
-        * kanban-taulun käyttö (Flinga, opettaja luo ryhmille).
+        * kanban-taulun käyttö (Padlet, opettaja luo ryhmille).
             * yllä mainittujen asioiden dokumentointityöhön liittyvä seurantaa. (ÄLÄ SEKOITA PROJEKTIN TOTEUTUSTEHTÄVIIN)
         * Moodlen keskusteluryhmä
 # Opintojakson suorittaminen - Tentti
