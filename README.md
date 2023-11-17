@@ -13,7 +13,7 @@ Ymmärrät projektimaisen 1) **työskentelyn periaatteet ja luonteenpiirteet**. 
 
 * 1)**työskentelyn periaatteet ja luonteenpiirteet**: etätyö, ryhmätyö ja laadukas [kommunikointi](./kommunikointi/README.md), näitä [tukevat työkalut](./toolChain/README.md).
 * 2)**Suunnittelemaan ja dokumentoimaan it-projekteja**: projektityypin päättely, vaatimusten määrittelytyö, vaatimuspuu, tehtäväpuu, muu tarvittava dokumentaatio
-* 3)**etenemisen seuranta ja hallinta**: ymmärretään vähän laajemmin tässä. kanban, versionhallinta (git-branching), burndown chart. Perinteisissä projekteissa (infrapuolella) ms-projectin kaltaiset gantt-chart esitykset.  
+* 3)**etenemisen seuranta ja hallinta**: ymmärretään vähän laajemmin tässä. [kanban, versionhallinta (git-branching)](./seurantaHallinta/README.md), burndown chart. Perinteisissä projekteissa (infrapuolella) ms-projectin kaltaiset gantt-chart esitykset.  
 
 - [Projektin määritelmä ja käsitteet](#projektin-määritelmä-ja-käsitteet)
 - [Projektityypit ja **hallintamenetelmät**](#projektityypit-ja-hallintamenetelmät)
