@@ -19,7 +19,7 @@
 * Ryhmä palauttaa yhden PDF muotoisen dokumentin (HUOM: tämä voi olla yksi tehtävä kanban-taululla, palautus, joku sitten hoitaa?).
 * Pyrkikää olennaiseen, asiasisältö ei saa kärsiä. (niin lyhyt dokumentti kuin mahdollista, muttei yhtään lyhyempi. Tiivistämisen taito on tärkeää **viestinnässä!**).  
 ## Dokumentoitavat asiat 
-1. (4 p.) Yksi Business goal: Etsikää Wysockin kirjasta ohjetta, viittaus siihen vaaditaan. Muotoilkaa case-materiaalin avulla Business goal. 
+1. (4 p.) Yksi Business/Project goal: Etsikää Wysockin kirjasta ohjetta, viittaus siihen vaaditaan. Muotoilkaa case-materiaalin avulla Business goal. 
 1. (5 p.) Vaatimuksien kartoitus (RBS): Vähintään 5 kappaletta joista väh. 1 ylimmällä tasolla. voitte tehdä sisennettynä listana jonka juurena on ym. "business goal"tai puuna (2-3 tasoa riittää). Miellekartta-muoto on myös ok. Priorisoikaa vaatimukset. (halutessanne voitte käyttää UML usecase kaavioita keskustelun tukena)
 1. (5 p.)Projektin luokitus ja sen perustelu, (tarkalla tasolla, eli valitaan "kauppanimi" kuten scrum, tässä harjoituksessa ei ole pakko valita scrummia, mutta perustelu Wysockin mukaan arvoidaan. Perusoletus: tekijöiksi saadaan kokeneita ihmisiä)
 1. (2 p.) RBS perusteella tarvittavan tiedon kartoitus: mistä/mitä tietoa kerätään. Jonkinlainen jäsennelty tietomalli/lista (käsitemalli, jos joku teistä osaa). Kuvatkaa lyhyesti miten tietomallin olette tehneet.  
