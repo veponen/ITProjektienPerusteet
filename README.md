@@ -115,7 +115,7 @@ Burndown chart
 Markdown dokumentit
 ### Versionhallinta - seuranta
 Tehtävien käytännön tekemisen seuranta. tehtävät linkitetään versionhallinnan kirjauksiin/vienteihin joko käsin tai automaattisesti (commit). Projektityöntekijät käyttävät päivittäin. Projektin johto seuraa.
-ns. hajautettu versionhallinta GIT on tärkein. 
+ns. hajautettu versionhallinta GIT on tärkein. Hyvä opas [git-käyttöön Haaga-helian amk-sta](https://github.com/mruonavaara/git101#14-Github-Students-pack)
 
 ### kommunikoinnin ja työn tuki
 Sähköposti, chat, editorin yhteis- ja parityöskentelyn tuki: word ja vscode. Obsidian-esittely
