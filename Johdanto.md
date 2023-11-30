@@ -29,7 +29,7 @@
 1. (2 p.) Tehtävien kartoitus (WBS) *tietojärjestelmän osien* ja *tarvittavan tiedon* (edelliset kohdat) avulla. 
    1. Tässä teette esimerkiksi ensimmäisen iteraation/kierroksen/sprintin alustavan tehtävälistan
    1. Edellyttää että valitsette jonkun vaatimuksen toteutettavaksi ja suunnitellut tehtävät liittyvät siihen. 
-1. (5 p.) versionhallinnan haarojen (branch) ja toiminnan suunnittelu. Päätelkää itse miten tämän hetkisen vaatimustilanteenne versionhallinta pitäisi suunnitella. Voitte miettiä tulevaisuutta, ei vain 1. iteraatiota.
+1. (5 p.) versionhallinnan haarojen (branch) ja toiminnan suunnittelu. Päätelkää itse miten tämän hetkisen vaatimustilanteenne versionhallinta (branch/alimman tason vaatimus) pitäisi suunnitella. Voitte miettiä tulevaisuutta, ei vain 1. iteraatiota.
    * https://nvie.com/posts/a-successful-git-branching-model/
 * **HUOM** kanban tauluun laitatte suunnitteluTYÖHÖN liittyviä tehtäviä. Ette siis niitä toteutustehtäviä joita suunnittelemanne toteutusprojektin ensimmäiseen sprinttiin/ mahdollisesti tulee. Sensijaan suunnitteluprojektissa voi olla tehtävä "1. iteraation karkean tehtävälistan teko" joka siinä kanban taulussa sitten voi olla. Ja jopa "lopullisen tehtävädokumentin palautus" voi olla kanbanissa, sieltä sitten näette kaikki kun joku teistä on sen hoitanut. 
 ## Suunnitteluprojektin seuranta ja kommunikointi
