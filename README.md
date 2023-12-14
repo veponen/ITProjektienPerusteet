@@ -11,7 +11,7 @@ Työkalut.
 # Oppimistavoitteet
 Ymmärrät projektimaisen 1) **työskentelyn periaatteet ja luonteenpiirteet**. Opit 2) **suunnittelemaan** ja dokumentoimaan **IT-projekteja**. Opit käyttämään *3) projektinhallintasovellusta projektin etenemisen seurantaan ja hallintaan.* 
 
-* 1)**työskentelyn periaatteet ja luonteenpiirteet**: etätyö, ryhmätyö ja laadukas [kommunikointi](./kommunikointi/README.md), näitä [tukevat työkalut](./toolChain/README.md).
+* 1)**työskentelyn periaatteet ja luonteenpiirteet**: etätyö, ryhmätyö ja laadukas [kommunikointi/vuorovaikutus](./kommunikointi/README.md), näitä [tukevat työkalut](./toolChain/README.md).
 * 2)**Suunnittelemaan ja dokumentoimaan it-projekteja**: projektityypin päättely, vaatimusten määrittelytyö, vaatimuspuu, tehtäväpuu, muu tarvittava dokumentaatio ja siihen liittyvät seurantaa/hallintaa (alla) tukevat työkalut (kuten VSCode, DrawIO) ja notaatiot (kuten Markdown, UML käyttötapaus)
 * 3)**etenemisen seuranta ja hallinta**: ymmärretään vähän laajemmin tässä. [kanban, versionhallinta (git-branching)](./seurantaHallinta/README.md), burndown chart. Perinteisissä projekteissa (infrapuolella) ms-projectin kaltaiset gantt-chart esitykset.  
 
