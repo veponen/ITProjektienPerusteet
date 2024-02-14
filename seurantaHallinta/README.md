@@ -6,7 +6,7 @@ https://medium.com/semantixbr/how-to-get-more-productive-projects-using-agile-an
 
 # Edistyneempiä asioita
 Yhteistyön teon työkalut. Eräs mahdollisuus:
-* VSCode, Git, Github, DrawIO (DrawIO korvikkeet: PlantUML, UMLet ) JA Live Share
+* VSCode, Git, [Github](./github.md), DrawIO (DrawIO korvikkeet: PlantUML, UMLet ) JA Live Share
 * Näillä pystyt tekemään pari- ja ryhmätöitä aika-paikka riippumattomasti. 
 Vaihe 1: Asenna VSCode
 ## Draw-IO
