@@ -1,4 +1,4 @@
-# Kommunikoinnin hahmottelua
+# Kommunikoinnin/vuorovaikutuksen hahmottelua
 Tässä lähinnä käytännön pohdintaa. Pohdinnan tarve perustuu Wysockin aiemmin mainittuun perusteluun. 
 Kommunikoinnin tavoitteena on saavuttaa jotain, ymmärrystä tai toimintaa. Kommunikointi on rakennettava siten, että se tukee ja mahdollistaa tavoitteen. On mietittävä mitkä asiat itse kommunikointiin vaikuttavat ja mietittävä miten vaikutus on tuloksia edistävää.
 
@@ -28,3 +28,6 @@ Hyvä perusolettama pohjalle kaikkeen viestintään: Kaikki haluavat ratkaista o
 * kommunikoinnin onnistuminen?
     * viestin lähettäjän ja vastaanottajan tunnetila viestintähetkellä? Sen vaikutus viestinnän onnistumiseen?
     * Tunne antaa vastauksen, järjellä perustellaan tuo vastaus, eli etsitään sopiva perustelu. Siinä me ollaan hyviä.
+
+# Löydettyä materiaalia
+Isoissa projekteissa koodia katselmoidaan. Onnistuneen katselmoinnin tärkeä osatekijä on [onnistunut ytimekäs kommunikointi](https://rewind.com/blog/best-practices-for-reviewing-pull-requests-in-github/)
