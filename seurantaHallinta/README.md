@@ -3,6 +3,12 @@ Tähän perusteet. kaiken it-järjestelmien konfigurointiin, suunnitteluun, doku
 Tuosta pitää tehdä suomenkielinen versio: 
 https://medium.com/semantixbr/how-to-get-more-productive-projects-using-agile-and-git-f48be9aad1c2
 
+# Kanban käyttö
+Erilaisia graafisia työkaluja on, ja teollisuudessa käytetään lähinnä Jiraa. Myös githubissa ja gitlabissa on kanban-työkaluja. Niistä ei saa riittävän helposti tapahtumalokeja. **Tämän puutteen takia** opintojaksoilla käytetään merkkipohjaista ratkaisua suoraan projektin reposistoryssa. [Käytetään todo.md nimeä ja aina samaa sisäistä rakennetta](./TODO.md), sen voi kopioida omaan projektiin. Tuota päivitetaan remoteen joka kerran kun sitä muutetaan, jotta muut projektin jäsenet saavat tiedon tilanteesta. Toki sitä voi päivittää myös suoraan githubissa.
+Mallia ja lisätietoja voi katsoa myös [täältä](https://github.com/todomd/todo.md) ja [täältä](https://github.com/todomd/todo.md/blob/master/TODO.md)
+
+
+Testaamaton graafinen git pohjainen [kanban taulu](https://marketplace.visualstudio.com/items?itemName=gordonlarrigan.vscode-kanbn) joka näyttää hyvin lupaavalta. 
 
 # Edistyneempiä asioita
 Yhteistyön teon työkalut. Eräs mahdollisuus:
