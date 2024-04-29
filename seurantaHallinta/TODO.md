@@ -3,7 +3,7 @@ Tähän mobiilisovelluksen/tekoälysovelluksen tavoite ja linkki päävaatimuksi
 Alla kolme osaa, jotka esittävät kolmea kanban swimlanea. Listatkaa käytännön tehtäviä TODO-otsikon alle. Kun alatte tehdä jotain, siirtäkää se "in progress" otsikon alle. Kun tehtävä valmis, siirtäkää se DONE-otsikon alle.
 
 ### TODO
-* [ ] suunnittele ulkoasu
+* [ ] suunnittele ulkoasu[tehtävän kuvausta yms](./tasks/ulkoasu.md)
     * [ ] napit
     * [ ] taustakuva
 * [ ] Koodaa jotain    
