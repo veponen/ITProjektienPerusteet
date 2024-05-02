@@ -3,3 +3,5 @@ Kun ohjeet ovat täällä, niitä on nopeaa ja helppoa muuttaa eikä tehtävien 
 
 # Tapausyritysten kuvaukset
 [palveluyrityksen franchising-case](./PalveluFranchising/README.md)
+
+[Dataa google analyticsistä exceliin? ohjetta](./ohjeita/GA4ToExcel.md)
